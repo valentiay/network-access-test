@@ -93,7 +93,7 @@ youtube.com                   ok              17ms 2022-01-17T01:04:01    5s ago
 ### Проверка доступности через HTTP GET запрос
 Редиректы считаются успехом.
 ```bash
-sudo java -jar network-access-test.jar -h -f example/http-small.txt 
+java -jar network-access-test.jar -h -f example/http-small.txt 
 ```
 ```
 ================================================================================
