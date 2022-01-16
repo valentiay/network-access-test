@@ -1,0 +1,10 @@
+173.194.222.139
+8.8.8.8
+baidu.com
+facebook.com
+google.com
+linkedin.com
+other-unresolvable.dum
+unresolvable.fake
+wikipedia.org
+youtube.com

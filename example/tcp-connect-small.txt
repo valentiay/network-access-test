@@ -1,0 +1,10 @@
+173.194.222.139:80
+8.8.8.8:53
+8.8.8.8:80
+baidu.com:80
+google.com:80
+linkedin.com:80
+other-unresolvable.dum:321
+unresolvable.fake:123
+wikipedia.org:80
+youtube.com:80

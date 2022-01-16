@@ -1,0 +1,10 @@
+http://8.8.8.8/
+http://baidu.com/
+http://facebook.com/
+http://www.google.com/
+http://linkedin.com/
+http://other-unresolvable.dum/
+http://twitter.com/
+http://unresolvable.fake/
+http://wikipedia.org/
+http://youtube.com/
